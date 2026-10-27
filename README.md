@@ -1,10 +1,10 @@
-<a href="https://blacktea3250106.github.io"><img src="./assets/header.svg" alt="Command prompt typing: Hao-Fu Chang, AI Product Engineer. A pixel avatar walks across the bottom." width="100%"></a>
+<a href="https://blacktea3250106.github.io"><img src="./assets/map.svg" alt="Pixel map of my work, builds and skills. A small avatar walks to MaiAgent, lumi-ai-customer-service, vocab-pipeline and agent-workflow while a dialog box describes each. Click to open the interactive version." width="100%"></a>
 
 ### Hao-Fu Chang · AI Product Engineer
 
 Backend engineer who builds LLM products end to end, from the user need to the LLM backend. 2.5 years shipping backends for enterprise AI SaaS and an LLM EdTech startup. Based in Taichung, Taiwan; open to remote and relocation.
 
-**▶ [Open the interactive map](https://blacktea3250106.github.io)** to walk through my work, builds and skills as a little pixel RPG. Prefer plain text? It has a read mode.
+**▶ [Play the interactive map](https://blacktea3250106.github.io)**: click any node and the avatar walks there, or drive it with ←↑→↓. Prefer plain text? It has a read mode.
 
 | Build | What it shows |
 |---|---|
